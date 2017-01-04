@@ -1,7 +1,11 @@
 
 ## Career Recommendation Engine for Career Muse
 
-Problem Statement:
+#### Problem Statement:
 
-Primary: Career recommendation engine that suggests a different job title / career for any given user.
+Primary: Career recommendation engine that suggests a different job title/career for any given user.
+
 Secondary: To suggest set of skills that a user needs to acquire before they can change careers.
+
+
+Check Presentation.pdf for details.
